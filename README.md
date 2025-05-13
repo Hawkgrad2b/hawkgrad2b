@@ -1,6 +1,6 @@
-# Hi, I'm William 👋
+# Hello there!
 
-I'm a Computer Science graduate from the University of Iowa with a passion for helping people by utilizing technology.
+Hi my name is William, and I'm a Computer Science graduate from the University of Iowa with a passion for helping people by utilizing technology.
 
 ## 🔧 Technologies & Tools
 - Languages: Python, Java, SQL
