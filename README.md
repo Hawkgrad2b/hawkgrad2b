@@ -1,4 +1,4 @@
-# Hello there!
+# 👋 Hello there!
 
 Hi my name is William, and I'm a Computer Science graduate from the University of Iowa with a passion for helping people by utilizing technology.
 
