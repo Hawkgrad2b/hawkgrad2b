@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm William 👋
 
-<!--
-**Hawkgrad2b/hawkgrad2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from the University of Iowa with a passion for helping people by utilizing technology.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Languages: Python, Java, SQL
+- Tools: Git, PyTorch, Flask, 
+- Methodologies: Agile, Scrum, TDD, OOP, SDLC, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+### 🎓 Hospital Management System
+> A full-stack web app supporting patient care, billing, and lab orders.
+- Built with Flask + MySQL
+- Features stored procedures, layered architecture, and role-based access
+
+### 🤖 IMDB Sentiment Analysis
+> LSTM-based movie review classifier using PyTorch
+- Achieved 85% F1 Score and 92% AUC
+- Focus on preprocessing, tokenization, and evaluation
+
+## 📫 Get in Touch
+- LinkedIn: [linkedin.com/in/williamlucas22](https://linkedin.com/in/williamlucas22)
+- Email: wplucas22@gmail.com
+
